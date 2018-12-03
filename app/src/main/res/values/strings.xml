@@ -1,0 +1,248 @@
+<resources>
+    <string name="app_name">Tour Guide App</string>
+    <string name="btn_website">Website</string>
+    <string name="btn_location">Location</string>
+    <string name="adress">Adress:</string>
+
+    <array name="restaurant_name">
+        <item>Amrut Ras Restaurant</item>
+        <item>Pizza Hut</item>
+        <item>Dil Se Re Restaurant</item>
+        <item>Domino\'s Pizza</item>
+        <item>Leonardo Italian Mediterranean Dining</item>
+        <item>Sasumaa Gujarati Thali</item>
+        <item>Sizzling Salsa</item>
+        <item>Barbeque Nation</item>
+        <item>Kansar Gujarati Thali</item>
+        <item>Avadh Family Restaurant</item>
+    </array>
+
+    <array name="restaurant_adress">
+        <item>Shop No. 1-6, Panchwati Society Near Shyam Dham Mandir, Sarthana Jakat Naka, Sarthana
+            Jakat Naka - Kamrej Rd, Surat, Gujarat 395013
+        </item>
+        <item>G7, International Business Center Gaurav Path Road, Piplod Near Big Bazaar, Surat,
+            Gujarat 395007
+        </item>
+        <item>2nd Floor, Imperial Square, Above Star Bazar, Pal-Adajan, Surat, Gujarat 395009</item>
+        <item>Shop No 2, Plot No 134/A &amp; 134/B, Revenue Survey No. 79/B/1, Ground Floor,
+            International Business Center, Gaurav Path, Piplod, Surat, Gujarat 395006
+        </item>
+        <item>Behind Iscon Mall, Dumas Rd, Piplod, Surat, Gujarat 395007</item>
+        <item>Mangal Deep Complex, Ring Road, Opp. Vanita Vishram Ground, Surat, Gujarat 395007
+        </item>
+        <item>1st Floor, Rajhans Cinema, Surat-Dumas Road, Opposite Iscon Mall, Surat, Gujarat
+            394370
+        </item>
+        <item>101, 1st Floor, Golden Square, Athwa Dumas Road, Near Sargam Sopping Centre, Parle
+            Point, Surat, Gujarat 395007
+        </item>
+        <item>101-104, Wing-A, President Plaza, Ring Road, Near Old R T O Office, Surat, Gujarat
+            395001
+        </item>
+        <item>Yash Plaza, Dhana Mill Compound, Varachha Main Rd, Opp, Surat, Gujarat 395006</item>
+    </array>
+
+    <array name="restaurant_websites">
+        <item>https://business.google.com/website/amrut-ras-restaurant</item>
+        <item>
+            http://restaurants.pizzahut.co.in/pizza-hut-ph-fcd-ibc-mall-pizza-restaurant-piplod-surat-22903/Home?utm_source=locator&amp;utm_medium=googleplaces
+        </item>
+        <item>http://www.dilsererestaurant.com</item>
+        <item>https://pizzaonline.dominos.co.in/?utm_source=restaurant-dominos-local&amp;utm_medium=store-locator-buy-online</item>
+        <item>http://leonardorestaurant.in</item>
+        <item>http://sasumaagujaratithali.com/Home.aspx</item>
+        <item>http://www.rajhans.co.in/sizzling_salsa.aspx</item>
+        <item>https://www.barbequenation.com</item>
+        <item>https://kansar-gujarati-thali.business.site</item>
+        <item>https://avadhfamilyrestaurant.business.site</item>
+    </array>
+    <array name="restaurant_location">
+        <item>
+            <![CDATA[https://www.google.com/maps/search/?api=1&query=Shop+No.+1-6,+Panchwati+Society+Near+Shyam+Dham+Mandir,+Sarthana+Jakat+Naka+-+Kamrej+Road+Surat,+Gujarat]]></item>
+        <item>
+            <![CDATA[https://www.google.com/maps/search/?api=1&query=G7,+International+Business+Center+Gaurav+Path+Road,+Piplod+Near+Big+Bazaar,+Surat,+Gujarat]]></item>
+        <item>
+            <![CDATA[https://www.google.com/maps/search/?api=1&query=Dil+Se+Re+Restaurant,+2nd+Floor,+Imperial+Square,+Above+Star+Bazar,+Pal-Adajan,+Surat,+Gujarat]]></item>
+        <item>
+            <![CDATA[https://www.google.com/maps/search/?api=1&query=Shop+No+2,+Plot+No+134/A+&amp;+134/B,+Revenue+Survey+No.+79/B/1,+Ground+Floor,+International+Business+Center,+Gaurav+Path,+Piplod,+Surat,+Gujarat]]></item>
+        <item>
+            <![CDATA[https://www.google.com/maps/search/?api=1&query=Leonardo+Italian+Mediterranean+Dining+Behind+Iscon+Mall,+Dumas+Road,+Piplod,+Surat,+Gujarat]]></item>
+        <item>
+            <![CDATA[https://www.google.com/maps/search/?api=1&query=Mangal+Deep+Complex,+Ring+Road,+Opp.+Vanita+Vishram+Ground,+Surat,+Gujarat]]></item>
+        <item>
+            <![CDATA[https://www.google.com/maps/search/?api=1&query=1st+Floor,+Rajhans+Cinema,+Surat+-+Dumas+Road,+Opposite+Iscon+Mall,+Surat,+Gujarat]]></item>
+        <item>
+            <![CDATA[https://www.google.com/maps/search/?api=1&query=101,+1st+Floor,+Golden+Square,+Athwa+Dumas+Road,+Near+Sargam+Sopping+Centre,+Parle+Point,+Surat,+Gujarat]]></item>
+        <item>
+            <![CDATA[https://www.google.com/maps/search/?api=1&query=101-104+,+Wing-A,+President+Plaza,+Ring+Road,+Near+Old+R+T+O+Office,+Surat,+Gujarat]]></item>
+        <item>
+            <![CDATA[https://www.google.com/maps/search/?api=1&query=Yash+Plaza,+Dhana+Mill+Compound,+Varachha+Main+Rd,+Opp,+Surat,+Gujarat]]></item>
+    </array>
+
+    <array name="attractions_name">
+        <item>Science Centre</item>
+        <item>Sarthana Nature Park, Zoo</item>
+        <item>Amaazia Water Park</item>
+        <item>Dumas Beach</item>
+        <item>Gopi Talav</item>
+        <item>Dutch Garden</item>
+        <item>Surat Castle</item>
+    </array>
+
+    <array name="attractions_adress">
+        <item>City Light Road, Athwalines, Surat, Gujarat 395007</item>
+        <item>Surat - Kamrej Highway, Sarthana Jakat Naka, Surat, Gujarat 395006</item>
+        <item>Opp. Dumbal Transport Godown, Canal Road, Parvat Patiya, Magob, Surat, Gujarat
+            395010
+        </item>
+        <item>along the Arabian Sea, 21 kilometres southwest of the City of Surat in the
+            Indian state of Gujarat
+        </item>
+        <item>Rustampura, Surat, Gujarat 395002</item>
+        <item>Dutch Garden Rd, Nanpura, Surat, Gujarat 395001</item>
+        <item>Rang Upvan Road, Chowk Bazar, Varasa, Surat, Gujarat 395003</item>
+    </array>
+
+    <array name="attractions_location">
+        <item>
+            <![CDATA[https://www.google.com/maps/search/?api=1&query=Science Centr, City Light Road, Athwalines, Surat, Gujarat]]></item>
+        <item>
+            <![CDATA[https://www.google.com/maps/search/?api=1&query=Sarthana Nature Park, Surat - Kamrej Highway, Sarthana Jakat Naka, Surat, Gujarat]]></item>
+        <item>
+            <![CDATA[https://www.google.com/maps/search/?api=1&query=Amaazia Water Park, Opp. Dumbal Transport Godown, Canal Road, Parvat Patiya, Magob, Surat, Gujarat]]></item>
+        <item>
+            <![CDATA[https://www.google.com/maps/search/?api=1&query=Dumas Beach, along the Arabian Sea, 21 kilometres southwest of the City of Surat in the Indian state of Gujarat]]></item>
+        <item>
+            <![CDATA[https://www.google.com/maps/search/?api=1&query=Gopi Talav, Rustampura, Surat, Gujarat]]></item>
+        <item>
+            <![CDATA[https://www.google.com/maps/search/?api=1&query=Dutch Garden, Nanpura, Surat, Gujarat]]></item>
+        <item>
+            <![CDATA[https://www.google.com/maps/search/?api=1&query=Surat Castle, Rang Upvan Road, Chowk Bazar, Varasa, Surat, Gujarat]]></item>
+    </array>
+
+    <array name="shoppingmalls_name">
+        <item>VR Mall</item>
+        <item>Big Bazaar</item>
+        <item>RahulRaj Mall</item>
+        <item>Iscon Mall</item>
+        <item>Central Mall</item>
+    </array>
+
+    <array name="shoppingmalls_adress">
+        <item>Dumas Road, Magdalla, Surat, Gujarat 395007</item>
+        <item>Surat - Dumas Rd, Opposite Gujarat Gas Cng Pump Station, Piplod, Surat, Gujarat
+            395007
+        </item>
+        <item>Opp. Govardhan Nath Ji Haveli, Surat - Dumas Road, Gaurav Path, Piplod, Surat, Gujarat
+            395007
+        </item>
+        <item>Dumas Road, Opp. Rajhans theater, Surat, Gujarat 395007</item>
+        <item>Piplod, Surat, Gujarat 395007</item>
+    </array>
+
+    <array name="shoppingmalls_location">
+        <item>
+            <![CDATA[https://www.google.com/maps/search/?api=1&query=VR Mall, Dumas Road, Magdalla, Surat, Gujarat]]></item>
+        <item>
+            <![CDATA[https://www.google.com/maps/search/?api=1&query=Big Bazaar, Surat - Dumas Rd, Opposite Gujarat Gas Cng Pump Station, Piplod, Surat, Gujarat]]></item>
+        <item>
+            <![CDATA[https://www.google.com/maps/search/?api=1&query=RahulRaj Mall, Opp. Govardhan Nath Ji Haveli, Surat - Dumas Road, Gaurav Path, Piplod, Surat, Gujarat]]></item>
+        <item>
+            <![CDATA[https://www.google.com/maps/search/?api=1&query=Iscon Mall, Dumas Road, Opp. Rajhans theater, Surat, Gujarat]]></item>
+        <item>
+            <![CDATA[https://www.google.com/maps/search/?api=1&query=Central Mall, Piplod, Surat, Gujarat 395007]]></item>
+    </array>
+
+    <array name="movie_theaters_name">
+        <item>INOX</item>
+        <item>Valentine Multiplex</item>
+        <item>PVR</item>
+        <item>Rajhans Cinemas</item>
+        <item>Cityplus Multiplex</item>
+    </array>
+
+    <array name="movie_theaters_adress">
+        <item>3rd Floor, VR Mall, Dumas Road, Magdalla, Surat, Gujarat 395007</item>
+        <item>Surat - Dumas Rd, Opposite Central Mall, New Magdalla, Surat, Gujarat 395007</item>
+        <item>3rd Floor, Rahul Raj Mall, Dumas Rd, Surat, Gujarat 395007</item>
+        <item>Dumas Road, Opposite ISKCON Mall, Piplod, Surat, Gujarat 395007</item>
+        <item>Surat Dumas Road, Near Magdalla Circle, Opp L &amp; T Colony, Surat, Gujarat 395007
+        </item>
+    </array>
+
+    <array name="movie_theaters_websites">
+        <item>https://www.inoxmovies.com</item>
+        <item>https://www.valentinemultiplex.com</item>
+        <item>https://www.pvrcinemas.com/Surat</item>
+        <item>http://rajhanscinemas.com/</item>
+        <item>http://www.cityplusmultiplex.in</item>
+    </array>
+
+    <array name="movie_theaters_location">
+        <item>
+            <![CDATA[https://www.google.com/maps/search/?api=1&query=INOX, 3rd Floor, VR Mall, Dumas Road, Magdalla, Surat, Gujarat]]></item>
+        <item>
+            <![CDATA[https://www.google.com/maps/search/?api=1&query=Valentine Multiplex, Surat - Dumas Rd, Opposite Central Mall, New Magdalla, Surat, Gujarat]]></item>
+        <item>
+            <![CDATA[https://www.google.com/maps/search/?api=1&query=PVR, 3rd Floor, Rahul Raj Mall, Dumas Rd, Surat, Gujarat]]></item>
+        <item>
+            <![CDATA[https://www.google.com/maps/search/?api=1&query=Rajhans Cinemas, Dumas Road, Opposite ISKCON Mall, Piplod, Surat, Gujarat]]></item>
+        <item>
+            <![CDATA[https://www.google.com/maps/search/?api=1&query=Cityplus Multiplex, Surat Dumas Road, Near Magdalla Circle, Opp L &amp; T Colony, Surat, Gujarat]]></item>
+    </array>
+
+    <array name="hotels_name">
+        <item>The Gateway Hotel</item>
+        <item>The Grand Bhagwati</item>
+        <item>Shreeji Vatika</item>
+        <item>Royal Rituals</item>
+        <item>Ginger Hotel</item>
+    </array>
+
+    <array name="hotels_adress">
+        <item>Ambika Niketan, Surat Dumas Road, Athwa, Surat, Gujarat 395007</item>
+        <item>Magdalla Circle, Dumas Road, Surat, Gujarat 395007</item>
+        <item>Besides International Business Center, Above Fords Showroom, Gaurav Path, Piplod,
+            Surat, Gujarat 395001
+        </item>
+        <item>opp dhiraj sons, Vesu, Surat, Gujarat 395007</item>
+        <item>Off Dumas Road, Near Iskon Mall, Piplod, Surat, Gujarat 395007</item>
+    </array>
+
+    <array name="hotels_websites">
+        <item>https://gateway.tajhotels.com/en-in/athwalines-surat</item>
+        <item>http://www.thegrandbhagwati.com/surat</item>
+        <item>http://hotelshreejivatikasurat.com</item>
+        <item>http://royalrituals.in</item>
+        <item>https://www.gingerhotels.com/ginger-surat</item>
+    </array>
+
+    <array name="hotels_location">
+        <item>
+            <![CDATA[https://www.google.com/maps/search/?api=1&query=The Gateway Hotel, Ambika Niketan, Surat Dumas Road, Athwa, Surat, Gujarat]]></item>
+        <item>
+            <![CDATA[https://www.google.com/maps/search/?api=1&query=The Grand Bhagwati, Magdalla Circle, Dumas Road, Surat, Gujarat]]></item>
+        <item>
+            <![CDATA[https://www.google.com/maps/search/?api=1&query=Shreeji Vatika, Besides International Business Center, Above Fords Showroom, Gaurav Path, Piplod, Surat, Gujarat]]></item>
+        <item>
+            <![CDATA[https://www.google.com/maps/search/?api=1&query=Royal Rituals, opp dhiraj sons, Vesu, Surat, Gujarat]]></item>
+        <item>
+            <![CDATA[https://www.google.com/maps/search/?api=1&query=Ginger Hotel, Off Dumas Road, Near Iskon Mall, Piplod, Surat, Gujarat]]></item>
+    </array>
+
+    <array name="public_transit_name">
+        <item>Airport</item>
+        <item>Train</item>
+        <item>Cab</item>
+        <item>City Bus</item>
+    </array>
+
+    <array name="public_transit_websites">
+        <item>http://www.suratairport.com</item>
+        <item>http://www.wr.indianrailways.gov.in</item>
+        <item>https://www.uber.com/en-IN/cities/surat</item>
+        <item>http://my.sitilink.in/</item>
+    </array>
+
+</resources>

@@ -1,0 +1,9 @@
+<resources>
+    <dimen name="listitem_image_size">250dp</dimen>
+    <dimen name="padding_8dp">8dp</dimen>
+    <dimen name="textsize_16sp">16sp</dimen>
+    <dimen name="textsize_20sp">20sp</dimen>
+    <dimen name="mtrl_card_padding">8dp</dimen>
+    <dimen name="mtrl_card_radious">8dp</dimen>
+    <dimen name="mtrl_card_elevation">8dp</dimen>
+</resources>
